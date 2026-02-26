@@ -1,0 +1,16 @@
+# Common python ignore patterns
+__pycache__
+*.py[cod]
+*$py.class
+.env
+.git
+.gitignore
+.vscode
+.idea
+.pytest_cache
+dist
+build
+node_modules
+Dockerfile
+docker-compose.yml
+.agent
